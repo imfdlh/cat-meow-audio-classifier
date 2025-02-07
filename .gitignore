@@ -1,0 +1,6 @@
+*.wav
+cat-meow-classification/
+*.keras
+*.pkl
+*.weights.h5
+kaggle.json
